@@ -1,0 +1,195 @@
+# Tor state file last generated on 2026-06-22 09:33:45 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 555 1
+CircuitBuildTimeBin 565 1
+CircuitBuildTimeBin 575 6
+CircuitBuildTimeBin 585 7
+CircuitBuildTimeBin 595 8
+CircuitBuildTimeBin 605 11
+CircuitBuildTimeBin 615 9
+CircuitBuildTimeBin 625 9
+CircuitBuildTimeBin 635 1
+CircuitBuildTimeBin 645 7
+CircuitBuildTimeBin 655 7
+CircuitBuildTimeBin 665 9
+CircuitBuildTimeBin 675 9
+CircuitBuildTimeBin 685 6
+CircuitBuildTimeBin 695 13
+CircuitBuildTimeBin 705 13
+CircuitBuildTimeBin 715 23
+CircuitBuildTimeBin 725 26
+CircuitBuildTimeBin 735 31
+CircuitBuildTimeBin 745 30
+CircuitBuildTimeBin 755 16
+CircuitBuildTimeBin 765 21
+CircuitBuildTimeBin 775 15
+CircuitBuildTimeBin 785 10
+CircuitBuildTimeBin 795 10
+CircuitBuildTimeBin 805 13
+CircuitBuildTimeBin 815 17
+CircuitBuildTimeBin 825 6
+CircuitBuildTimeBin 835 17
+CircuitBuildTimeBin 845 18
+CircuitBuildTimeBin 855 18
+CircuitBuildTimeBin 865 17
+CircuitBuildTimeBin 875 18
+CircuitBuildTimeBin 885 15
+CircuitBuildTimeBin 895 19
+CircuitBuildTimeBin 905 17
+CircuitBuildTimeBin 915 18
+CircuitBuildTimeBin 925 12
+CircuitBuildTimeBin 935 25
+CircuitBuildTimeBin 945 23
+CircuitBuildTimeBin 955 17
+CircuitBuildTimeBin 965 23
+CircuitBuildTimeBin 975 12
+CircuitBuildTimeBin 985 18
+CircuitBuildTimeBin 995 14
+CircuitBuildTimeBin 1005 12
+CircuitBuildTimeBin 1015 15
+CircuitBuildTimeBin 1025 13
+CircuitBuildTimeBin 1035 12
+CircuitBuildTimeBin 1045 13
+CircuitBuildTimeBin 1055 8
+CircuitBuildTimeBin 1065 6
+CircuitBuildTimeBin 1075 7
+CircuitBuildTimeBin 1085 13
+CircuitBuildTimeBin 1095 7
+CircuitBuildTimeBin 1105 12
+CircuitBuildTimeBin 1115 8
+CircuitBuildTimeBin 1125 9
+CircuitBuildTimeBin 1135 13
+CircuitBuildTimeBin 1145 13
+CircuitBuildTimeBin 1155 8
+CircuitBuildTimeBin 1165 7
+CircuitBuildTimeBin 1175 9
+CircuitBuildTimeBin 1185 11
+CircuitBuildTimeBin 1195 4
+CircuitBuildTimeBin 1205 11
+CircuitBuildTimeBin 1215 6
+CircuitBuildTimeBin 1225 4
+CircuitBuildTimeBin 1235 7
+CircuitBuildTimeBin 1245 2
+CircuitBuildTimeBin 1255 4
+CircuitBuildTimeBin 1265 6
+CircuitBuildTimeBin 1275 2
+CircuitBuildTimeBin 1285 5
+CircuitBuildTimeBin 1295 3
+CircuitBuildTimeBin 1305 2
+CircuitBuildTimeBin 1325 3
+CircuitBuildTimeBin 1335 1
+CircuitBuildTimeBin 1345 2
+CircuitBuildTimeBin 1375 4
+CircuitBuildTimeBin 1385 1
+CircuitBuildTimeBin 1395 2
+CircuitBuildTimeBin 1415 1
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1435 3
+CircuitBuildTimeBin 1465 3
+CircuitBuildTimeBin 1475 1
+CircuitBuildTimeBin 1485 2
+CircuitBuildTimeBin 1495 1
+CircuitBuildTimeBin 1505 2
+CircuitBuildTimeBin 1525 1
+CircuitBuildTimeBin 1535 1
+CircuitBuildTimeBin 1555 2
+CircuitBuildTimeBin 1565 1
+CircuitBuildTimeBin 1585 1
+CircuitBuildTimeBin 1615 1
+CircuitBuildTimeBin 1645 2
+CircuitBuildTimeBin 1685 2
+CircuitBuildTimeBin 1695 2
+CircuitBuildTimeBin 1735 1
+CircuitBuildTimeBin 1765 1
+CircuitBuildTimeBin 1805 1
+CircuitBuildTimeBin 1825 2
+CircuitBuildTimeBin 1875 1
+CircuitBuildTimeBin 1895 1
+CircuitBuildTimeBin 1935 1
+CircuitBuildTimeBin 1945 2
+CircuitBuildTimeBin 1985 1
+CircuitBuildTimeBin 2015 1
+CircuitBuildTimeBin 2295 1
+CircuitBuildTimeBin 2355 1
+CircuitBuildTimeBin 2385 1
+CircuitBuildTimeBin 2395 1
+CircuitBuildTimeBin 2515 1
+CircuitBuildTimeBin 2805 1
+CircuitBuildTimeBin 2825 1
+CircuitBuildTimeBin 3565 1
+CircuitBuildTimeBin 6155 1
+CircuitBuildTimeBin 6405 1
+CircuitBuildTimeBin 9375 1
+CircuitBuildTimeBin 10585 1
+CircuitBuildTimeBin 10965 1
+CircuitBuildTimeBin 12075 1
+CircuitBuildTimeBin 20655 1
+CircuitBuildTimeBin 22645 1
+CircuitBuildTimeBin 56225 1
+CircuitBuildAbandonedCount 23
+Dormant 0
+Guard in=default rsa_id=293307B8F792383D1F0A71C8A085E2841D0A66F2 nickname=NTH35R1 sampled_on=2026-06-10T21:45:23 sampled_idx=0 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=39B521C5F16C984400EECC4E2F83BF26E73F1D1D nickname=viajante sampled_on=2026-06-15T22:19:39 sampled_idx=1 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=E51C7BFF774F588DA9FCCDB3B2011C8FC5A5EA90 nickname=johnny sampled_on=2026-06-18T21:20:56 sampled_idx=2 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=2856770C398C8C145BCBF74BE9CDA68509621848 nickname=fluffypancakes005nl sampled_on=2026-06-19T14:36:52 sampled_idx=3 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=3E1DE9EA0F5C7EA10C1DDFBAA2DB3A241A88B4DD nickname=bauruine sampled_on=2026-06-15T22:13:38 sampled_idx=4 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=2A1DE3F65F28AA9785FFDC229D8605DC7A70AD73 nickname=4206mAlphubel sampled_on=2026-06-12T17:21:01 sampled_idx=5 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=BF8CF01E00DD4FC3F0E539567B0F4C99B17ECFE4 nickname=shyne sampled_on=2026-06-10T08:33:34 sampled_idx=6 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=1815E96EDB9444E9CD0D11FB9BB695B687C21E82 nickname=FTPhalifaxRWTH sampled_on=2026-06-11T16:04:59 sampled_idx=7 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=EF8A6EE04A64E5A0B748AF9895829014CED8DF36 nickname=ParadiseTorRelay4 sampled_on=2026-06-19T16:42:08 sampled_idx=8 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=D12FBEA6247B25C0FCD09D5E123DD59BF943D7BB nickname=hertlein sampled_on=2026-06-17T02:02:00 sampled_idx=9 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=BF54EE3193751481579BA7CC7D8E1DF0A01AFB30 nickname=gesdm sampled_on=2026-06-13T18:57:01 sampled_idx=10 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=04DBCBFDA74F3837D428003A209B767E5A66D240 nickname=FacebookSucks sampled_on=2026-06-13T15:21:50 sampled_idx=11 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=71AE831D9E80839B59CF2E27F4CAFAAB130C56CF nickname=as215248node2 sampled_on=2026-06-14T01:44:46 sampled_idx=12 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=5E0988E3A7463183FFF74088E6D026A58FF6246A nickname=Aleff sampled_on=2026-06-12T12:20:40 sampled_idx=13 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=C4BDBFD1049EE1D4F6977C42485F94CD5F97BA92 nickname=lenin sampled_on=2026-06-12T09:39:00 sampled_idx=14 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=F62806C61513591809EE6F2095272B2BEF3D5258 nickname=PommespanzerGB3 sampled_on=2026-06-11T05:28:29 sampled_idx=15 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=8F1D70DE42C72120CE8E49287414DFCF94FFF1F2 nickname=jay sampled_on=2026-06-17T00:11:53 sampled_idx=16 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=551E0398BA6C06EA4E739ADF8EF020B857624A93 nickname=Gobert sampled_on=2026-06-13T17:19:51 sampled_idx=17 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=8639695AEA99C5F3B4CA164D6B12BCC3830FDF6C nickname=NTH79R1 sampled_on=2026-06-12T17:22:14 sampled_idx=18 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=741232615F48091CBB42CFDA61989C9D2A03A32E nickname=Tux11 sampled_on=2026-06-16T14:28:03 sampled_idx=19 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=F16FA573E1A9B5B545920972618698235DD78E05 nickname=TRRelay1 sampled_on=2026-06-18T08:29:18 sampled_idx=20 sampled_by=0.4.8.10 listed=1 confirmed_on=2026-06-18T05:20:49 confirmed_idx=1 pb_use_attempts=53.500000 pb_use_successes=53.500000 pb_circ_attempts=258.000000 pb_circ_successes=250.000000 pb_successful_circuits_closed=250.000000 pb_timeouts=9.000000
+Guard in=default rsa_id=50B7C4F6C18A3E5FC1D4E2ECE6B7B316B29FB26C nickname=ElonTusk sampled_on=2026-06-16T18:19:41 sampled_idx=21 sampled_by=0.4.8.10 listed=1 confirmed_on=2026-06-14T06:43:06 confirmed_idx=2 pb_use_attempts=71.000000 pb_use_successes=71.000000 pb_circ_attempts=249.000000 pb_circ_successes=245.000000 pb_successful_circuits_closed=245.000000 pb_timeouts=5.000000
+Guard in=default rsa_id=C20DF8588987896DD892143650B55BC6FC989492 nickname=offset sampled_on=2026-06-14T14:19:56 sampled_idx=22 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=6CBA90E31188A65E2B6AC1EE8412E8DE571ECAD6 nickname=spicyavocado sampled_on=2026-06-14T09:08:19 sampled_idx=23 sampled_by=0.4.8.10 listed=1 confirmed_on=2026-06-09T20:25:13 confirmed_idx=0
+Guard in=default rsa_id=7A011DE06AEDB840ECB01F6E5653B214342325FF nickname=Gnagi sampled_on=2026-06-14T14:34:30 sampled_idx=24 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=B6F6A56C5DB1CFB18692695923B3E429758C9A3A nickname=Anguiped sampled_on=2026-06-19T07:51:59 sampled_idx=25 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=F00EC2E0A2CA79A57FE7A0918A087987747D772D nickname=PancakeWhore sampled_on=2026-06-17T10:09:09 sampled_idx=26 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=2DCF5236122F31C9271FDDE79DB49397ABC05984 nickname=criticalcat sampled_on=2026-06-15T00:45:30 sampled_idx=27 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=674F66D7D8C6F0DF9997B3C9423AA153C988FE77 nickname=ForPrivacyNET sampled_on=2026-06-14T08:35:05 sampled_idx=28 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=348A0B4F07B4F7432712A3E5E93AF24653BCC55B nickname=nickname sampled_on=2026-06-11T03:39:04 sampled_idx=29 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=1C8C4A0889F248334A9C486BA68770D62E21047E nickname=allen sampled_on=2026-06-14T18:27:03 sampled_idx=30 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=AE0421C55352BB9C271E9B4DD53093C05CE83FBF nickname=tr22 sampled_on=2026-06-19T07:03:39 sampled_idx=31 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=728F97D5BCB131698814D8C713C2220C6E7267DE nickname=CanisLatrans sampled_on=2026-06-15T20:35:54 sampled_idx=32 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=7ED26BC451C8FD79FABDD2F9562A038758DB8181 nickname=MassSurveillance sampled_on=2026-06-13T17:31:25 sampled_idx=33 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=07D8ECD7305722EE37FA0A408BC0D2034B9BE07A nickname=merc sampled_on=2026-06-12T02:07:29 sampled_idx=34 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=42896CF699A0E9D28B690901925B410EB22D94A6 nickname=ForPrivacyNET sampled_on=2026-06-17T13:14:21 sampled_idx=35 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=9A2A7E55CC21DF2C6171068FD9DF6B35AB504132 nickname=Todry542 sampled_on=2026-06-09T10:38:51 sampled_idx=36 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=09F9CD95B472256DFDFF666A0CFD82A3F3CE3514 nickname=chinachinachina sampled_on=2026-06-19T13:47:03 sampled_idx=37 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=D151BF6ABF0CB974323A9BDC1FB32E7EE90F27EA nickname=prsv sampled_on=2026-06-17T18:02:47 sampled_idx=38 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=17DCD11828C952B2A185E102A2C8163C08AF6C47 nickname=bauruine sampled_on=2026-06-13T22:38:46 sampled_idx=39 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=581F1F9C88643844B8DE347DD52826CF4359D0E5 nickname=diddy sampled_on=2026-06-13T04:08:31 sampled_idx=40 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=C237392DC121DF50C64C707C3FB95055E68B00CA nickname=pacoCalienteRelay2 sampled_on=2026-06-14T05:44:47 sampled_idx=41 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=53508DECD9A503C50CA5A41D500367C98C1391F7 nickname=feinler sampled_on=2026-06-09T00:15:57 sampled_idx=42 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=D3FB1BCFE2404BF6F396ADA059C29B3E6547D10C nickname=ididntedithecofnig sampled_on=2026-06-14T17:34:47 sampled_idx=43 sampled_by=0.4.8.10 listed=1 confirmed_on=2026-06-12T01:07:27 confirmed_idx=3
+Guard in=default rsa_id=1D648492E463B95B3B44712A717EF5513A2A978D nickname=plo sampled_on=2026-06-09T00:06:18 sampled_idx=44 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=5790B62AD6C79A1092B30993A8F0F7F23A969FD6 nickname=StreamsofLifeSpa sampled_on=2026-06-09T03:53:11 sampled_idx=45 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=0B95072617C93A40893FFB0EC65840B245918834 nickname=prsv sampled_on=2026-06-18T15:13:24 sampled_idx=46 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=9AA56B3478DE9C8350F544DFBCA182CC20E5A733 nickname=schapiro sampled_on=2026-06-10T14:00:40 sampled_idx=47 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=75A1B9963804D079CD96A888E6B62737116078E0 nickname=NTH133R1 sampled_on=2026-06-10T11:31:08 sampled_idx=48 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=EE587F2D44F7EC6AB9B3334D6E6A2FDC57FFA63C nickname=FourteenEyes sampled_on=2026-06-09T23:18:48 sampled_idx=49 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=327EEC1C3496BED6056DE756A3FD5AC4A69F84D9 nickname=TheSuccubus sampled_on=2026-06-09T02:32:27 sampled_idx=50 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=E2E104275E2120EBAB5EC44959AC5C0B40A61798 nickname=NTH52R1 sampled_on=2026-06-12T20:56:43 sampled_idx=51 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=494E5000BA79F0078DFA05E610911C2AC525572F nickname=StuRav sampled_on=2026-06-19T03:16:00 sampled_idx=52 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=38F732DD349A2E59078434651162A2F4201934A5 nickname=mixminion sampled_on=2026-06-14T04:47:09 sampled_idx=53 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=C44327405A1507C2CA9E1B0FB1421ADCB108BD67 nickname=sorgerecht sampled_on=2026-06-18T11:49:31 sampled_idx=54 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=BAE5A47C906B805E60BC051CA5061D858C21F96D nickname=DontMentionTheWar sampled_on=2026-06-08T22:56:20 sampled_idx=55 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=55D747EE6D26C9490F742698DDD1B1629F09D037 nickname=prsv sampled_on=2026-06-09T07:23:53 sampled_idx=56 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=1DEECD906AFECF496B7DC1E40829F4563517B4CC nickname=Charybdis2 sampled_on=2026-06-15T11:15:30 sampled_idx=57 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=B607C12B7B90583BA13DCCC704EBDD6FDF1D5ECF nickname=loquendo sampled_on=2026-06-10T01:32:54 sampled_idx=58 sampled_by=0.4.8.10 listed=1
+Guard in=default rsa_id=10925BBC65575A86068C14B5C2AABF5F7EC63176 nickname=prsv sampled_on=2026-06-13T23:57:11 sampled_idx=59 sampled_by=0.4.8.10 listed=1
+LastWritten 2026-06-22 09:33:45
+TorVersion Tor 0.4.8.10
+TotalBuildTimes 980

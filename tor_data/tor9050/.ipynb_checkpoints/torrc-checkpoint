@@ -1,0 +1,4 @@
+SocksPort 9050
+ControlPort 9100
+DataDirectory tor_data/tor9050
+CookieAuthentication 0
