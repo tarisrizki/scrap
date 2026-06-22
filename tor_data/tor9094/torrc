@@ -1,0 +1,4 @@
+SocksPort 9094
+ControlPort 9144
+DataDirectory tor_data/tor9094
+CookieAuthentication 0
